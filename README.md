@@ -7,4 +7,4 @@
 
 ## Banner Logo
 ![Banner Logo](./BannerLogo.png)
-![Banner Logo](./ftvid.mp4)
+![Banner Logo](./ft.gif)
